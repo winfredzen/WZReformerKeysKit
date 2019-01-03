@@ -1,0 +1,22 @@
+{
+  "name": "WZReformerKeysKit",
+  "version": "0.1.0",
+  "summary": "A short description of WZReformerKeysKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/winfredzen/WZReformerKeysKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "winfredzen": "wangzhen@curefun.com"
+  },
+  "source": {
+    "git": "https://github.com/winfredzen/WZReformerKeysKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WZReformerKeysKit/Classes/**/*"
+}

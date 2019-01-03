@@ -1,0 +1,16 @@
+PODS:
+  - WZReformerKeysKit (0.1.0)
+
+DEPENDENCIES:
+  - WZReformerKeysKit (from `../`)
+
+EXTERNAL SOURCES:
+  WZReformerKeysKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WZReformerKeysKit: 83f4a022dadcf56f68ff040a191b1e8c06284076
+
+PODFILE CHECKSUM: 5417d65eb0096646fc3cecce81798232933eeb8d
+
+COCOAPODS: 1.5.3
